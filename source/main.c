@@ -48,18 +48,22 @@ int main(void)
 		if (A == 13200) printf("sed genrat now inejct\n");
 		if (A == 15000) printf("unb&\n");
 		if (A == 16800) printf("nowe update from DUMB LUMA to corbeni\n");
-		if (A == 18600) printf("now u hav corbneik becaus luma suck wee wee!!\n");
-		if (A == 20400) printf("arguin in #meta about rule 11...\n");
-		if (A == 22200) printf("OH No HECK yo got frikken ban by dos NAZI MOD!!!\n");
-		if (A == 23400) printf("makin alt accooun (ur such a hackers)\n");
-		if (A == 25200) printf("u got aron ban my dud!!\n");
-		if (A == 26100) printf("now lunching frii gam!!\n");
+		if (A == 18600) printf("now u hav corbneik becaus luma suck 4-bite\n"), printf("bik.\n");
+                if (A == 20400) printf("Downola 2TB ReshiRAM!\n");
+		if (A == 22200) printf("arguin in #meta about rule 11...\n");
+		if (A == 23400) printf("OH No HECK yo got frikken ban by dos NAZI MOD!!!\n");
+		if (A == 25200) printf("makin alt accooun (ur such a hackers)\n");
+		if (A == 26100) printf("u got aron ban my dud!!\n");
+                if (A == 27000) printf("Delet bot.ferm...\n");
+                if (A == 27900) printf("Gib U pokegomz in rel lif...\n"); 
+                if (A == 28800) printf("Nowe U Hav a rel liv Charizard!!!!!\n");
+		if (A == 29700) printf("now lunching frii gam!!\n");
 
 		gfxFlushBuffers();
 		gfxSwapBuffers();
 		gspWaitForVBlank();
 		if (kDown & KEY_B) break;
-		if (A == 27900){
+		if (A == 31500){
 		memset(param, 0, sizeof(param));
 		memset(hmac, 0, sizeof(hmac));
 		APT_PrepareToDoApplicationJump(0, shopID, 0);
