@@ -56,3 +56,5 @@ veyr good produT!!! you gi  frig am for FRI!!!
 [cechk out our othe r  ports!!](https://github.com/fefoSheep)
 
 joindicord:: https://discord.gg/hKQYa8N
+
+Tanks Joxow fur origenal vurshin.  
